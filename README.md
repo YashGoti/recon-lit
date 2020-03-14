@@ -1,5 +1,7 @@
 ## About recon-lit
 
+reco-lit is an improvised version of our favourite subdomain enumeration tool #Sublist3r, which delivers various features such as indicating URL redirections, displaying server name (if present) and IP information, basic port scanning having services running on ports [21, 22, 23, 25, 53, 80, 110, 111, 135, 139, 143, 443, 445, 993, 1723, 3306, 3389, 5900, 8080, 8443] and also indicating the URL response status code in output.
+
 ## Screenshots
 
 ![recon-lit](http://thedarkfiles.tk/Content/Yash/recon-lit/ScreenShot.png "recon-lit in action")
