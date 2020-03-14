@@ -8,6 +8,15 @@
 
 ```
 git clone https://github.com/YashGoti/recon-lit.git
+cd recon-lit
+python3 setup.py install
+pip3 install -r requirements.txt
+```
+
+## Usage
+
+```
+python3 reconlit.py -d <DOMAIN NAME>
 ```
 
 ## Recommended Python Version:
