@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![recon-lit](http://thedarkfiles.tk/Content/Yash/recon-lit/SS.png "recon-lit in action")
+![recon-lit](http://thedarkfiles.tk/Content/Yash/recon-lit/ScreenShot.png "recon-lit in action")
 
 ## Installation
 
